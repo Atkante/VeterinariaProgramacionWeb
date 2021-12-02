@@ -38,7 +38,7 @@
   
   .logo {
       height: 11vh;
-      width: 5vw;
+   
     border-radius: 50%;
     display: block;
     margin: 0 auto; 
@@ -78,7 +78,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   .Imgpasiente
   {
     border-radius: 50%;
-    width: 23vw;
+    height: 50vh;
   }
   
 
@@ -90,3 +90,4 @@ input
   box-shadow: inset 5px 5px 10px #cccccc,
               inset -5px -5px 10px #f4f4f4;
 }
+
